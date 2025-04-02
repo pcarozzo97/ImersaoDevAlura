@@ -1,7 +1,6 @@
-# AULA2 - JoKenPo
+# Desafios das aulas da IMERSÃO DEV da plataforma Alura
 
-A Pen created on CodePen.
+Aula 1 - Conversor de moedas (Harry Potter)
+Aula 2 - Jogo de Pedra, Papel ou Tesoura (Mario World)
 
-Original URL: [https://codepen.io/pcarozzo97/pen/ByavZOo](https://codepen.io/pcarozzo97/pen/ByavZOo).
-
-Segundo desafio da Imersão Dev Alura, agora com um jogo de Pedra, Papel ou Tesoura, usando o universo de Mario World!
+Os desafios realizados durante a imersão serão postados em branchs separadas, pois afinal não sei usar o GitHub direito ainda :)
