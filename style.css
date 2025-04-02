@@ -13,15 +13,13 @@ body {
   position: absolute;
   top: 20px;
   right: 20px;
-  max-width: 150px;
-  max-height: 100px;
+  max-width: 80px;
   width: auto;
-  height: auto;
 }
 
 /* Container with the background image */
 .container {
-  background: url('https://s32508.pcdn.co/wp-content/uploads/2019/06/Gringotts-Page-Hero.jpg') no-repeat center center/cover;
+  background: url('https://images.pexels.com/photos/209679/pexels-photo-209679.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2') no-repeat center center/cover;
   min-height: 100vh;
   display: flex;
   justify-content: center;
@@ -41,44 +39,19 @@ body {
 }
 
 /* Button Styles */
-buttonG {
-  background-color: #B8860B;
+button {
+  background-color: rgb(255, 65, 74);
   border: none;
   border-radius: 8px;
   padding: 10px 20px;
   font-size: 1.2em;
   color: white;
-  cursor: url('https://uploaddeimagens.com.br/images/004/888/807/full/ouro.png?1743470929'),auto;
+  cursor: url('https://uploaddeimagens.com.br/images/004/889/126/full/marioMushroomIcon.png?1743561431'),auto;
   transition: background-color 0.3s ease;
-  float: center;
-}
-
-buttonS {
-  background-color: #B8860B;
-  border: none;
-  border-radius: 8px;
-  padding: 10px 20px;
-  font-size: 1.2em;
-  color: white;
-  cursor: url('https://uploaddeimagens.com.br/images/004/888/808/full/prata.png?1743470967'),auto;
-  transition: background-color 0.3s ease;
-  float: center;
-}
-
-buttonN {
-  background-color: #B8860B;
-  border: none;
-  border-radius: 8px;
-  padding: 10px 20px;
-  font-size: 1.2em;
-  color: white;
-  cursor: url('https://uploaddeimagens.com.br/images/004/888/809/full/bronze.png?1743470990'),auto;
-  transition: background-color 0.3s ease;
-  float: center;
 }
 
 button:hover {
-  background-color: #a52a2a;
+  background-color: rgb(152, 255, 120);
 }
 
 /* Footer Styles */

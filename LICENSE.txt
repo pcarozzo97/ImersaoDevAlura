@@ -1,7 +1,7 @@
 The MIT License (MIT)
 
-Copyright (c) 2025 Pietra C. S. Carvalho (https://codepen.io/pcarozzo97/pen/GgRwdPM)
-Fork of an original work AULA1 _Arquivo 0 (https://codepen.io/profandre/pen/wBvPamL)
+Copyright (c) 2025 Pietra C. S. Carvalho (https://codepen.io/pcarozzo97/pen/ByavZOo)
+Fork of an original work Aula02 - Arquivo0 (https://codepen.io/profandre/pen/xbxPGjX)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

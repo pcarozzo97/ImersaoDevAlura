@@ -1,7 +1,7 @@
-# AULA1 _Gringotts Converter
+# AULA2 - JoKenPo
 
 A Pen created on CodePen.
 
-Original URL: [https://codepen.io/pcarozzo97/pen/GgRwdPM](https://codepen.io/pcarozzo97/pen/GgRwdPM).
+Original URL: [https://codepen.io/pcarozzo97/pen/ByavZOo](https://codepen.io/pcarozzo97/pen/ByavZOo).
 
-Um conversor de moedas com base no universo de Harry Potter
+Segundo desafio da Imersão Dev Alura, agora com um jogo de Pedra, Papel ou Tesoura, usando o universo de Mario World!
